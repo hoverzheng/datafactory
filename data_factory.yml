@@ -1,0 +1,9 @@
+fields:
+  id: random_int
+  name: name
+  id_card: ssn
+  phone_number: phone_number
+  address: address
+output:
+  format: csv
+  delimiter: ','
